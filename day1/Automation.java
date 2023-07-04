@@ -22,6 +22,7 @@ public class Automation extends MultipleLangauge implements TestTool,Language {
 		Automation obj=new Automation();
 		obj.Java();
 		obj.Selenium();
+		obj.python();
 		obj.ruby();
 	}
 
